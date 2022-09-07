@@ -1,0 +1,5 @@
+bin
+*.userprefs
+toyrobot
+config.*
+obj

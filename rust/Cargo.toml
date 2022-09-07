@@ -1,0 +1,7 @@
+[package]
+name = "toyrobot"
+version = "0.0.1"
+authors = ["Lauchlin <lauchlin@lauchlin.com>"]
+
+[dependencies]
+regex = "1.5.5"

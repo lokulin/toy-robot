@@ -1,0 +1,16 @@
+#!/usr/bin/env python3
+from sys import exit, argv
+
+import toyrobot.robotrunner
+
+
+def main(file):
+    return toyrobot.robotrunner.main(file)
+
+
+if __name__ == '__main__':
+    if len(argv) == 2:
+        exit(main(argv[1]))
+    else:
+        print("usage: toy-robot <input file>")
+        exit(1)

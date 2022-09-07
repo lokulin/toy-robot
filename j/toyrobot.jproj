@@ -1,0 +1,10 @@
+NB. project:
+NB.
+NB. defines list of source files.
+NB. path defaults to project directory.
+
+NB. init.ijs
+toyrobot-tacit.ijs
+toyrobot-simple.ijs
+toyrobot-terse-functional.ijs
+

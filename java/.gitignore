@@ -1,0 +1,10 @@
+build
+repos
+.gradle
+target
+*.swp
+.settings
+.vscode
+.project
+.classpath
+bin
